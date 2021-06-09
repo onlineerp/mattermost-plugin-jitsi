@@ -1,0 +1,14 @@
+{
+  "jitsi.close": "Bezárás",
+  "jitsi.creator-has-started-a-meeting": "{creator} indított egy új megbeszélést",
+  "jitsi.default-title": "Jitsi Videóchat",
+  "jitsi.join-meeting": "CSATLAKOZÁS",
+  "jitsi.link-valid-until": "Megbeszélés link érvényessége: ",
+  "jitsi.maximize": "Maximalizálás",
+  "jitsi.meeting-id": "Megbeszélés ID: ",
+  "jitsi.minimize": "Minimalizálás",
+  "jitsi.move-down": "Mozgatás Fel",
+  "jitsi.move-up": "Mozgatás Le",
+  "jitsi.open-in-new-tab": "Megnyitás új tabon",
+  "jitsi.personal-meeting-id": "Személyes Megbeszélés ID (PMI): "
+}
